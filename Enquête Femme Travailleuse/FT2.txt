@@ -1,0 +1,10 @@
+	moins que Bac C	moins que Bac M	moins que Bac V	Bac C	Bac+1 V	Bac+1 C	Bac+2 M	Bac+2 C	Bac+3 C	Bac+3 M	Bac+3 D	Bac+4 M	Bac+4 V	Bac+5 M	Bac+5 C	Plus que Bac+5 M	Plus que Bac+5 C
+HTS	48	37	54	14	10	52	26	38	39	35	20	39	44	38	28	33	35
+TF	0	1	1	0	0	1	1	1	0	1	1	1	1	0	0	0	0
+AEA	6	20	6	2	32	3	17	5	6	10	3	17	2	5	3	9	7
+ST	9	9	8	7	5	8	8	8	6	7	9	7	8	6	5	8	8
+DISC	0	1	0	1	0	0	1	1	1	1	1	0	1	0	1	1	1
+SN	6	7	6	7	8	7	7	8	7	6	6	7	6	7	7	7	7
+ENFANTS	0	4	4	0	3	0	3	0	0	1	2	2	3	1	0	1	0
+CONF	5	11	20	9	2	21	2	8	4	9	18	6	10	3	4	8	3
+PRFE	0	40	20	0	5	0	14	0	0	14	44	43	30	4	0	8	0
